@@ -21,14 +21,15 @@ This project focuses on scraping NIFTY 50 data from the Moneycontrol website usi
 - Jupyter Notebook for running the analysis
   
 ### Insights & Outcomes
-Successfully extracted and stored real-time NIFTY 50 data.
-Conducted data-driven analysis to explore trends and fluctuations.
-Enhanced skills in web scraping, automation, and financial data analysis.
+- Successfully extracted and stored real-time NIFTY 50 data.
+- Conducted data-driven analysis to explore trends and fluctuations.
+- Enhanced skills in web scraping, automation, and financial data analysis.
 
 ### Project Structure
-nifty50_scraper.py: Script to scrape data using Selenium.
-nifty50_data.csv: The extracted dataset.
-notebooks/: Jupyter notebooks containing data analysis and visualizations.
+- nifty50_scraper.py: Script to scrape data using Selenium.
+- nifty50_data.csv: The extracted dataset.
+- notebooks/: Jupyter notebooks containing data analysis and visualizations.
 
 Feel free to explore and run the code to see the analysis in action! 🚀
+
 Let me know if you'd like any modifications! 😊
