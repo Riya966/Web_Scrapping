@@ -4,19 +4,16 @@ This project focuses on scraping NIFTY 50 data from the Moneycontrol website usi
 
 ## Key Features
 ### 1. Web Scraping with Selenium:
--Installed and configured a web driver for automated data extraction.
-
--Scraped live NIFTY 50 data from Moneycontrol.
+- Installed and configured a web driver for automated data extraction.
+- Scraped live NIFTY 50 data from Moneycontrol.
 
 ### 2.Data Storage & Processing:
--Stored the extracted data in a structured CSV file.
-
--Cleaned and processed the data using Pandas.
+- Stored the extracted data in a structured CSV file.
+- Cleaned and processed the data using Pandas.
 
 ### 3.Data Analysis & Visualization:
--Performed exploratory data analysis (EDA) on NIFTY 50 trends.
-
--Created visualizations using Matplotlib and Seaborn to identify key patterns.
+- Performed exploratory data analysis (EDA) on NIFTY 50 trends.
+- Created visualizations using Matplotlib and Seaborn to identify key patterns.
 
 ### Tools & Technologies Used
 - Python (Selenium, Pandas, Matplotlib, Seaborn)
